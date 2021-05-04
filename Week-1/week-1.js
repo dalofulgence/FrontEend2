@@ -4,10 +4,21 @@ const links = [
         url: "week-1/index.html"
     },
     {
-        label: "Week2 notes",
+        label: "Week1 notes",
         url: "week-2/index.html"
+    },
+    {
+        label: "Week3 notes",
+        url: "week-3/index.html"
     }
 ];
+
+links.forEach[
+    link => {
+
+    }
+];
+
 
 let ul = document.querySelector('ul');
 
